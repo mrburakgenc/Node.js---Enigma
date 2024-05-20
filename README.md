@@ -27,9 +27,9 @@ EJS ve diğer template engine'ler ile dinamik HTML sayfaları oluşturmayı öğ
 Model - View - Controller - MVC
 MVC mimarisi ile uygulama geliştirme konusuna giriş yaptım. Bu mimarinin faydalarını ve Node.js uygulamalarında nasıl uygulanacağını öğrendim.
 
-SQL
+MySQL
 
-SQL ile veritabanı yönetimi ve veri sorgulama konularını ele aldım. Veritabanı tasarımı, ilişkisel veritabanları ve temel SQL sorguları bu bölümde işlendi.
+MySQL ile veritabanı yönetimi ve veri sorgulama konularını ele aldım. Veritabanı tasarımı, ilişkisel veritabanları ve temel SQL sorguları bu bölümde işlendi.
 
 SQL ORM - Sequelize
 
