@@ -46,3 +46,6 @@ Kullanıcı girdilerini doğrulama ve güvenli hale getirme yöntemlerini öğre
 Blog App
 
 Eğitim boyunca öğrendiğim tüm kavramları pekiştirmek için bir blog uygulaması geliştirdim. Bu proje ile gerçek dünya uygulamalarına yönelik pratik yapma fırsatı buldum.
+
+Asist SmsApi:
+Kurum İçerisinde Kullandığımız Sms Apisi Eklenmiştir.
